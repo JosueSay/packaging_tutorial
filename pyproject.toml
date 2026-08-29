@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "example_package_TU_USUARIO"
+version = "0.0.1"
+authors = [
+  { name="Tu Nombre", email="tu_correo@example.com" },
+]
+description = "Un paquete de ejemplo"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/TU_USUARIO/TU_REPOSITORIO"
