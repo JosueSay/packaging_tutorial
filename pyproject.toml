@@ -3,10 +3,10 @@ requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
 [project]
-name = "example_package_TU_USUARIO"
+name = "example_package_jhw"
 version = "0.0.1"
 authors = [
-  { name="Tu Nombre", email="tu_correo@example.com" },
+  { name="JHW", email="josuesay770@gmail.com" },
 ]
 description = "Un paquete de ejemplo"
 readme = "README.md"
@@ -19,4 +19,4 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = "https://github.com/TU_USUARIO/TU_REPOSITORIO"
+Homepage = "https://github.com/JosueSay/packaging_tutorial"
